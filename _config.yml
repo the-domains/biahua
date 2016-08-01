@@ -1,0 +1,14 @@
+layout_spectrum: 0.9441242115572095
+typography_spectrum: 0.7394970722962171
+color:
+  brandStrength: 0.20484613464213908
+  lightness: 0.3601845633238554
+  saturation: 0.16875886684283614
+  rhythmicContrast: 0.6065738152246922
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: BiaHua
